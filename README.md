@@ -1,2 +1,2 @@
 # dio-java-basico
-Alterando de um arquivo de forma local
+Repositorio dos projetos para o curso de java basico
